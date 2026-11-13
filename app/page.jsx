@@ -348,7 +348,6 @@ function App() {
           </div>
 
           <a href="#about" className="scroll-cue"><span/>SCROLL TO EXPLORE</a>
-          <div className="hero-index">FIG 01 <span>—</span> THE STARTING POINT</div>
         </section>
 
         <section className="manifesto" id="about">
